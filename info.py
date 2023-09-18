@@ -1,4 +1,4 @@
-# To send mail
+# Sender Email
 senderemail = "Mail ID"
 pwd = "Password"
 
